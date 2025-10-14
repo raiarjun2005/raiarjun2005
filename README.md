@@ -3,22 +3,16 @@
 <!-- Main hero (big GIF) -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-       alt="D4Ll"
+       alt="Main Animation"
        style="width:100%; max-width:1400px; height:auto; display:block; margin: 0 auto; border-radius:12px; box-shadow: 0 12px 45px rgba(0,0,0,0.7);" />
 </p>
 
-<p align="center" style="margin-top:16px;">
-  <img src="![hked](https://github.com/user-attachments/assets/267fcf81-4dcf-40cb-a7b4-f0c74c7fe0c3)"
-
-       alt="7jkI"
-       style="width:85%; max-width:950px; height:auto; display:block; margin: 0 auto; border-radius:10px; box-shadow: 0 10px 35px rgba(0,0,0,0.6);" />
+<!-- Secondary GIF -->
+<p align="center" style="margin-top:20px;">
+  <img src="https://github.com/user-attachments/assets/267fcf81-4dcf-40cb-a7b4-f0c74c7fe0c3"
+       alt="Second Animation"
+       style="width:90%; max-width:950px; height:auto; display:block; margin: 0 auto; border-radius:10px; box-shadow: 0 10px 35px rgba(0,0,0,0.6);" />
 </p>
-
-<!-- ======================
-     Screenshot-like Cards
-     ====================== -->
-
-<div align="center" style="margin-top:28px;">
 
   <!-- About Card -->
   <div style="width:95%; max-width:1100px; border-radius:12px; background:#0b0b0b; color:#e6f9ff; padding:18px; box-shadow: 0 12px 40px rgba(0,0,0,0.65); margin:18px auto; border: 1px solid rgba(0,255,255,0.06);">
