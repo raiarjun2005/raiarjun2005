@@ -15,27 +15,25 @@
 
 Hey there 👋 I'm **Arjun Rai**, an emerging ethical hacker from **New Delhi, India** — currently leveling up my skills in cybersecurity and penetration testing.
 <!-- present-status-with-gif.html -->
-<div class="current-status-card">
-  <div class="cs-left">
-    <h3 class="cs-title">🌸 What I'm doing right now</h3>
-    <ul class="cs-list">
-      <li>Practicing web app & network security on beginner-friendly labs like TryHackMe</li>
-      <li>Exploring tools like Burp Suite, Nmap, Metasploit, and Wireshark</li>
-      <li>Learning Linux and Networking fundamentals while documenting my journey</li>
-      <li>Running small lab projects to simulate real-world vulnerabilities</li>
-    </ul>
-  </div>
-  <div class="cs-right">
-    <img
-      class="cs-gif"
-      src="https://camo.githubusercontent.com/303c1e6157b0f5be634ee2c2e0d084fc81b428136e2d9f92ff8e4bb9ac172f6e/68747470733a2f2f6d65646961322e6465762e746f2f64796e616d69632f696d6167652f77696474683d3332302c6865696768743d3332302c6669743d636f7665722c677261766974793d6175746f2c666f726d61743d6175746f2f68747470732533412532462532466465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d25324675706c6f6164732532467573657225324670726f66696c655f696d6167652532463132323937373925324662393135653739392d616437372d346164352d393437372d6665623330656633313731642e676966"
-      alt="animated hacker GIF"
-      loading="lazy"
-      width="320"
-      height="320"
-    />
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top" style="padding-right:20px;">
+      <h3>🌸 What I'm doing right now</h3>
+      <ul>
+        <li>Practicing web app & network security on beginner-friendly labs like TryHackMe</li>
+        <hr/>
+        <li>Exploring tools like Burp Suite, Nmap, Metasploit, and Wireshark</li>
+        <hr/>
+        <li>Learning Linux and Networking fundamentals while documenting my journey</li>
+        <hr/>
+        <li>Running small lab projects to simulate real-world vulnerabilities</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://camo.githubusercontent.com/303c1e6157b0f5be634ee2c2e0d084fc81b428136e2d9f92ff8e4bb9ac172f6e/68747470733a2f2f6d65646961322e6465762e746f2f64796e616d69632f696d6167652f77696474683d3332302c6865696768743d3332302c6669743d636f7665722c677261766974793d6175746f2c666f726d61743d6175746f2f68747470732533412532462532466465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d25324675706c6f6164732532467573657225324670726f66696c655f696d6167652532463132323937373925324662393135653739392d616437372d346164352d393437372d6665623330656633313731642e676966" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ⚡ **Strengths:**
 - Fast learner with a hands-on mindset.
