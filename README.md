@@ -11,15 +11,39 @@
        alt="Second Animation"
        style="width:90%; max-width:950px; height:auto; display:block; margin: 0 auto; border-radius:10px; box-shadow: 0 10px 35px rgba(0,0,0,0.6);" />
 </p>
+## 💀 About Me
 
-  <!-- About Card -->
-  <div style="width:95%; max-width:1100px; border-radius:12px; background:#0b0b0b; color:#e6f9ff; padding:18px; box-shadow: 0 12px 40px rgba(0,0,0,0.65); margin:18px auto; border: 1px solid rgba(0,255,255,0.06);">
-    <h3 style="margin:6px 0 8px 0; color:#00FFFF; text-align:center;">About Me</h3>
-    <p style="line-height:1.5; text-align:center; margin:0 12px;">
-      I'm Arjun — web app penetration tester, bug bounty chaser, and lover of all things exploit & build. 
-      I tinker with web security, Python scripts, and weird CSS. Currently exploring advanced XSS & API logic bugs.
-    </p>
-  </div>
+Hey there 👋 I'm **Arjun Rai**, an emerging ethical hacker from **New Delhi, India** — currently leveling up my skills in cybersecurity and penetration testing.
+
+🧠 **What I’m doing right now:**
+- Practicing **web app & network security** on beginner-friendly labs like *TryHackMe*.
+- Exploring tools like **Burp Suite**, **Nmap**, **Metasploit**, and **Wireshark**.
+- Learning Linux and Networking fundamentals while documenting my journey.
+- Running small lab projects to simulate real-world vulnerabilities.
+
+⚡ **Strengths:**
+- Fast learner with a hands-on mindset.
+- Strong at documenting processes and explaining concepts clearly.
+- Curious, observant, and methodical — I break things to understand them.
+
+🎯 **Current Goals:**
+- Mastering **ethical hacking** & **junior-level penetration testing** skills.
+- Building a strong foundation in Linux, SQL, and network protocols.
+- Expanding into automation and AI-assisted security testing.
+
+📚 **Education:**
+- 🎓 *Bachelor of Computer Applications (BCA)* — SRM University, Sonepat (2023–2024)  
+- 💻 *O Level in Computer Science* — NIELIT (2025–2026)
+
+📫 **Reach Me:**
+- **Email:** [rai.arjun2005@gmail.com](mailto:rai.arjun2005@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/arjun-rai-63g](https://www.linkedin.com/in/arjun-rai-63g)  
+- **Portfolio:** [devswift.in](https://devswift.in)
+
+---
+
+> 💬 *“Hack to learn, not to harm.”*  
+> Always exploring. Always learning. Always building.
 
   <!-- Skills Card -->
   <div style="width:95%; max-width:1100px; border-radius:12px; background:#060606; color:#dbeffd; padding:18px; box-shadow: 0 10px 36px rgba(0,0,0,0.6); margin:18px auto; border: 1px solid rgba(0,255,255,0.04);">
