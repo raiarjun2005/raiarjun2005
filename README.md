@@ -8,7 +8,8 @@
 </p>
 
 <p align="center" style="margin-top:16px;">
-  <img src="https://github.com/user-attachments/assets/9b6df7c3-bc12-4c01-8f58-c9aa286ed52e"
+  <img src="![hked](https://github.com/user-attachments/assets/267fcf81-4dcf-40cb-a7b4-f0c74c7fe0c3)"
+
        alt="7jkI"
        style="width:85%; max-width:950px; height:auto; display:block; margin: 0 auto; border-radius:10px; box-shadow: 0 10px 35px rgba(0,0,0,0.6);" />
 </p>
