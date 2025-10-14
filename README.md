@@ -16,7 +16,7 @@
   <div style="width:95%; max-width:1100px; border-radius:12px; background:#0b0b0b; color:#e6f9ff; padding:18px; box-shadow: 0 12px 40px rgba(0,0,0,0.65); margin:18px auto; border: 1px solid rgba(0,255,255,0.06);">
     <h3 style="margin:6px 0 8px 0; color:#00FFFF; text-align:center;">About Me</h3>
     <p style="line-height:1.5; text-align:center; margin:0 12px;">
-      I'm Cyber Arjun — web app penetration tester, bug bounty chaser, and lover of all things exploit & build. 
+      I'm Arjun — web app penetration tester, bug bounty chaser, and lover of all things exploit & build. 
       I tinker with web security, Python scripts, and weird CSS. Currently exploring advanced XSS & API logic bugs.
     </p>
   </div>
