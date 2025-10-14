@@ -42,7 +42,7 @@ Hey there 👋 I'm **Arjun Rai**, an emerging ethical hacker from **New Delhi, I
 - Curious, observant, and methodical — I break things to understand them.
 
 🎯 **Current Goals:**
-- Mastering **ethical hacking** & **junior-level penetration testing** skills.
+- Mastering **ethical hacking** & **penetration testing** skills.
 - Building a strong foundation in Linux, SQL, and network protocols.
 - Expanding into automation and AI-assisted security testing.
 
