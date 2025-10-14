@@ -1,3 +1,18 @@
+
+<!-- Main hero (big GIF) -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+       alt="Main Animation"
+       style="width:100%; max-width:1400px; height:auto; display:block; margin: 0 auto; border-radius:12px; box-shadow: 0 12px 45px rgba(0,0,0,0.7);" />
+</p>
+
+<!-- Secondary GIF -->
+<p align="center" style="margin-top:20px;">
+  <img src="https://github.com/user-attachments/assets/267fcf81-4dcf-40cb-a7b4-f0c74c7fe0c3"
+       alt="Second Animation"
+       style="width:90%; max-width:950px; height:auto; display:block; margin: 0 auto; border-radius:10px; box-shadow: 0 10px 35px rgba(0,0,0,0.6);" />
+</p>
+
 ## 💀 About Me
 
 Hey there 👋 I'm **Arjun Rai**, an emerging ethical hacker from **New Delhi, India** — currently leveling up my skills in cybersecurity and penetration testing.
