@@ -2,7 +2,7 @@
 
 <!-- Centered big hero image (responsive) -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0ccd6b85-f537-45c3-a5ba-d5019d1ffdc4" 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" 
        alt="D4Ll" 
        style="width:85%; max-width:900px; height:auto; display:block; margin: 0 auto; border-radius:8px; box-shadow: 0 8px 30px rgba(0,0,0,0.6);" />
 </p>
