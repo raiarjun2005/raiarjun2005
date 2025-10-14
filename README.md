@@ -1,5 +1,3 @@
-<h2 align="center">💀 Hi! I'M <span style="color:#00FFFF;">Cyber Arjun</span> 💀</h2>
-
 <!-- Main hero (big GIF) -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
