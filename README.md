@@ -5,11 +5,14 @@
        width="100%" style="max-width:1400px; border-radius:12px;" />
 </p>
 
-<!-- Typing SVG (centered + working version) -->
+<!-- Typing SVG (centered using markdown inside HTML) -->
 <p align="center">
-  <img 
-       src="https://readme-typing-svg.demolab.com/?font=Great+Vibes&size=48&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile;Cyber+Arjun+is+here;Let's+build+something+epic!+💀"
-       alt="Typing Animation" />
+  
+  <!-- Typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=70&pause=1000&width=700&color=00FFFF&center=true&vCenter=true&lines=Welcome+to+my+profile" alt="Typing SVG" />
+  </a>
+
 </p>
 
 <!-- Secondary GIF -->
