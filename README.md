@@ -12,8 +12,14 @@
        alt="Second Animation"
        style="width:90%; max-width:950px; height:auto; display:block; margin: 0 auto; border-radius:10px; box-shadow: 0 10px 35px rgba(0,0,0,0.6);" />
 </p>
-              https://readme-typing-svg.demolab.com?font=Great+Vibes&pause=1000&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg
-Hey there 👋 I'm **Arjun Rai**, an emerging ethical hacker from **New Delhi, India** — currently leveling up my skills in cybersecurity and penetration testing.
+
+<p align="center" style="margin-top: 25px; margin-bottom: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=45&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile;Cyber+Arjun+is+here;Let's+build+something+epic!+💀"
+       alt="Typing Animation"
+       style="display:block; margin: 0 auto;" />
+
+  
+</p>****Hey there 👋 I'm **Arjun Rai**, an emerging ethical hacker from **New Delhi, India** — currently leveling up my skills in cybersecurity and penetration testing.
 <table>
   <tr>
     <td valign="top" style="padding-right:20px;">
