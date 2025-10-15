@@ -5,6 +5,14 @@
        width="100%" style="max-width:1400px; border-radius:12px;" />
 </p>
 
+
+<!-- Secondary GIF -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/267fcf81-4dcf-40cb-a7b4-f0c74c7fe0c3"
+       alt="Second Animation"
+       width="90%" style="max-width:950px; border-radius:10px;" />
+</p>
+
 <!-- Typing SVG (centered using markdown inside HTML) -->
 <p align="center">
   
@@ -14,14 +22,6 @@
   </a>
 
 </p>
-
-<!-- Secondary GIF -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/267fcf81-4dcf-40cb-a7b4-f0c74c7fe0c3"
-       alt="Second Animation"
-       width="90%" style="max-width:950px; border-radius:10px;" />
-</p>
-
 
   
 </p>****Hey there 👋 I'm **Arjun Rai**, an emerging ethical hacker from **New Delhi, India** — currently leveling up my skills in cybersecurity and penetration testing.
