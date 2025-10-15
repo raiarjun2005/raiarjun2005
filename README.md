@@ -13,10 +13,10 @@
        style="width:90%; max-width:950px; height:auto; display:block; margin: 0 auto; border-radius:10px; box-shadow: 0 10px 35px rgba(0,0,0,0.6);" />
 </p>
 
-<p align="center" style="margin-top: 25px; margin-bottom: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=45&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile;Cyber+Arjun+is+here;Let's+build+something+epic!+💀"
-       alt="Typing Animation"
-       style="display:block; margin: 0 auto;" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=48&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile;Cyber+Arjun+is+here;Let's+build+something+epic!+💀"
+       alt="Typing Animation" />
+</p>
 
   
 </p>****Hey there 👋 I'm **Arjun Rai**, an emerging ethical hacker from **New Delhi, India** — currently leveling up my skills in cybersecurity and penetration testing.
