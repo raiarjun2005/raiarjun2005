@@ -5,9 +5,10 @@
        width="100%" style="max-width:1400px; border-radius:12px;" />
 </p>
 
-<!-- Typing SVG (centered + big font) -->
+<!-- Typing SVG (centered + working version) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=48&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile;Cyber+Arjun+is+here;Let's+build+something+epic!+💀"
+  <img 
+       src="https://readme-typing-svg.demolab.com/?font=Great+Vibes&size=48&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile;Cyber+Arjun+is+here;Let's+build+something+epic!+💀"
        alt="Typing Animation" />
 </p>
 
