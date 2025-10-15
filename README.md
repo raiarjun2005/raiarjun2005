@@ -12,7 +12,7 @@
        alt="Second Animation"
        style="width:90%; max-width:950px; height:auto; display:block; margin: 0 auto; border-radius:10px; box-shadow: 0 10px 35px rgba(0,0,0,0.6);" />
 </p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ## 💀 About Me
 
 Hey there 👋 I'm **Arjun Rai**, an emerging ethical hacker from **New Delhi, India** — currently leveling up my skills in cybersecurity and penetration testing.
