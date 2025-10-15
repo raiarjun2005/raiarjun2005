@@ -5,21 +5,20 @@
        width="100%" style="max-width:1400px; border-radius:12px;" />
 </p>
 
-<!-- Typing SVG (centered + slightly smaller hacker vibe) -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=55&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&height=120&lines=Welcome+to+my+profile;Cyber+Arjun+is+here+💀"
-      alt="Typing SVG" />
-  </a>
-</p>
-
 <!-- Secondary GIF -->
-<p align="center">
+<p align="center" style="margin-top:20px;">
   <img src="https://github.com/user-attachments/assets/267fcf81-4dcf-40cb-a7b4-f0c74c7fe0c3"
        alt="Second Animation"
        width="90%" style="max-width:950px; border-radius:10px;" />
 </p>
+
+<!-- Typing SVG (Markdown, centered below both GIFs) -->
+<p align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Great+Vibes&size=70&pause=1000&width=700&height=108&color=00FFFF&center=true&vCenter=true&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+  
+</p>
+
 
 </p>****Hey there 👋 I'm **Arjun Rai**, an emerging ethical hacker from **New Delhi, India** — currently leveling up my skills in cybersecurity and penetration testing.
 <table>
