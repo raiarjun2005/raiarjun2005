@@ -5,18 +5,19 @@
        width="100%" style="max-width:1400px; border-radius:12px;" />
 </p>
 
+
 <!-- Secondary GIF -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/267fcf81-4dcf-40cb-a7b4-f0c74c7fe0c3"
        alt="Second Animation"
        width="90%" style="max-width:950px; border-radius:10px;" />
 </p>
-
-
-<!-- Typing SVG (centered + fixed cutoff issue) -->
+<!-- Typing SVG (centered + slightly smaller hacker vibe) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=65&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=150&lines=Welcome+to+my+profile" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=55&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&height=120&lines=Welcome+to+my+profile;Cyber+Arjun+is+here+💀"
+      alt="Typing SVG" />
   </a>
 </p>
 
