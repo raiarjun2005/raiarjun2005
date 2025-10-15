@@ -9,7 +9,7 @@
 <p align="center" style="margin-top:20px;">
   <img src="https://github.com/user-attachments/assets/267fcf81-4dcf-40cb-a7b4-f0c74c7fe0c3"
        alt="Second Animation"
-       width="90%" style="max-width:950px; border-radius:10px;" />
+       width="65%" style="max-width:950px; border-radius:10px;" />
 </p>
 
 <!-- Typing SVG (Markdown, centered below both GIFs) -->
