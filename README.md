@@ -19,6 +19,9 @@
   
 </p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/ArjunG63.png" alt="Your Image Badge" />
+
+
 
 </p>****Hey there 👋 I'm **Arjun Rai**, an emerging ethical hacker from **New Delhi, India** — currently leveling up my skills in cybersecurity and penetration testing.
 <table>
